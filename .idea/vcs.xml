@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/IMRobot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IMRobot/qq_robot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IMRobot/wechat_robot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/imrobot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/imrobot/qq_robot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/imrobot/qqrobot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/imrobot/wechat_robot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/imrobot/wxrobot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spider" vcs="Git" />
+  </component>
+</project>

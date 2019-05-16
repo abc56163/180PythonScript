@@ -1,0 +1,6 @@
+Do we stop the previous connection?
+I also don't see a need to have it as a member function.
+You can just write it in place with C++'s find_if with lambda
+Do we stop the previous connection?
+I also don't see a need to have it as a member function.
+You can just write it in place with C++'s find_if with lambda
